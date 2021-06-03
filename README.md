@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Panza
+- 👋 Hi, I’m @Babacho
 - 👀 I’m interested in Cripto, Stocks, Cuarteto and Fernet
 - 🌱 I’m currently learning Python, Data Science and SQL
 - 💞️ I’m looking to collaborate on anything related to Python for begginers.
